@@ -6,7 +6,7 @@
   
 <h1 align="center">Hi 👋, I'm Mansi Borade</h1>
 
-<h3 align="center"> A passionate frontend developer from India.Developed learn new skill with growth and contributions to community.</h3>
+<h3 align="center">"People don't care about what you say, they care about what you build."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borade-mansi&label=Profile%20views&color=0e75b6&style=flat" alt="borade-mansi" /> </p>
 
